@@ -15,7 +15,3 @@
 			<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 			<img src="https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white" />
 		</div>
- 		<!-- 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motojate&layout=compact"><br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=motojate&show_icons=true"> 
-  --!>
