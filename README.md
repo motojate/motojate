@@ -11,7 +11,7 @@
 ![typescript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![redux](https://img.shields.io/badge/ReduxToolkit-764ABC?logo=Redux&logoColor=white)
-![nestJS](https://img.shields.io/badge/nestJS-E0234E?logo=nestJS&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestJS&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white)
 ![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
