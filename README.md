@@ -8,7 +8,7 @@
 :fire: **github**&nbsp;&nbsp;http://github.com/motojate  
 :fire: **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/motojate  
 * * *
-![SpringBoot](https://img.shields.io/badge/SpringBoot-#6DB33F?logo=springboot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestJS&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white)
