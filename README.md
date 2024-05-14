@@ -2,6 +2,10 @@
 #### Web Server Developer 
 > Back-End / Front-End
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/motojate"/>
+</a>
+
 **1998.09.03**  
 :fire: **portfolio** [https://www.notion.so/Programmer...](https://www.notion.so/Programmer-l-2855c5f1cdc845b58c474c35db1d786b)  
 :fire: **email**&nbsp;&nbsp;&nbsp;motojate@naver.com  
